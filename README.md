@@ -22,7 +22,7 @@
   ##
   
 <div>
-  <a img height="180em" href="https://www.linkedin.com/in/gabriel-rebouças-4489141b4/" tagert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a img height="180em" href="https://www.linkedin.com/in/gabriel-rebouças-4489141b4/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 ![Snake animation](https://github.com/gabereboucas/gabereboucas/blob/output/github-contribution-grid-snake.svg)
 </div>
