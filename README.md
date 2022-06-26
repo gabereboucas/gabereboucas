@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on UX design for assistive robot for children with ASD
+- 🌱 I’m currently learning Front-end, UX/UI Design, AI, react..
+- 😄 Pronouns: he/him
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/gabereboucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabereboucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabereboucas&layout=compact&langs_count=7&theme=radical"/>
