@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
--
+
 <div align="center">
   <a href="https://github.com/gabereboucas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabereboucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -23,5 +23,5 @@
   
 <div style="display: inline_block">
   <a img height="180em" href="https://www.linkedin.com/in/gabriel-rebouças-4489141b4/" tagert="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- ![Snake animation](https://github.com/gabereboucas/gabereboucas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabereboucas/gabereboucas/blob/output/github-contribution-grid-snake.svg)
 </div>
