@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi 👋
 
-- 🔭 I’m currently working on UX design for assistive robot for children with ASD
+- 🔭 Currently I work with UX design to build an assistive robot for children with ASD [Researcher at UFMT]
 - 🌱 I’m currently learning Front-end, UX/UI Design, AI, react..
 - 😄 Pronouns: he/him
 
