@@ -3,6 +3,7 @@
 - 🔭 Currently I work with UX design to build an assistive robot for children with ASD [Researcher at UFMT]
 - 🌱 I’m currently learning Front-end, UX/UI Design, AI, react..
 - 😄 Pronouns: he/him
+- 💡  Last article: https://sol.sbc.org.br/index.php/eri-mt/article/view/18222
 
 <div align="center">
   <a href="https://github.com/gabereboucas">
@@ -22,6 +23,6 @@
   
 <div>
   <a img height="180em" href="https://www.linkedin.com/in/gabriel-rebouças-4489141b4/"target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"target="_blank"></a>
- 
+  
 ![Snake animation](https://github.com/gabereboucas/gabereboucas/blob/output/github-contribution-grid-snake.svg)
 </div>
