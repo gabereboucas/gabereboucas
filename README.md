@@ -21,7 +21,6 @@
   <img align="center" alt="gabe-git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" alt="gabe-arduino" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
-
   ##
   
 <div>
