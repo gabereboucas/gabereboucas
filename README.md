@@ -3,7 +3,7 @@
 - 🔭 Currently I work with UX design to build an assistive robot for children with ASD [Researcher at UFMT]
 - 🌱 I’m currently learning Front-end, UX/UI Design, AI, react..
 - 😄 Pronouns: he/him
-- 💡  Last article: https://sol.sbc.org.br/index.php/eri-mt/article/view/18222 ;
+- 💡  Last article: [Click](https://sol.sbc.org.br/index.php/wics/article/view/24841) ;
 
 <div align="center">
   <a href="https://github.com/gabereboucas">
