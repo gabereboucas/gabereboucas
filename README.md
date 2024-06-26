@@ -1,9 +1,10 @@
 ### Hi 👋
 
+- 🌐 Product Designer 
 - 🔭 Currently I work with UX design to build an assistive robot for children with ASD [Researcher at UFMT]
 - 🌱 I’m currently learning Front-end, UX/UI Design, AI, react..
 - 😄 Pronouns: he/him
-- 💡  Last article: [Click](https://sol.sbc.org.br/index.php/wics/article/view/24841) ;
+- 💡 Last Publication: [Click](https://ojs.uel.br/revistas/uel/index.php/projetica/article/view/48223) ;
 
 <div align="center">
   <a href="https://github.com/gabereboucas">
