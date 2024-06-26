@@ -4,7 +4,8 @@
 - 🔭 Currently I work with UX design to build an assistive robot for children with ASD [Researcher at UFMT]
 - 🌱 I’m currently learning Front-end, UX/UI Design, AI, react..
 - 😄 Pronouns: he/him
-- 💡 Last Publication: [Click](https://ojs.uel.br/revistas/uel/index.php/projetica/article/view/48223) ;
+- 💡 Last Publication: [Requirements Specification Approach for 3D Modeling of Robot Otto for therapy sessions with autistic children
+](https://ojs.uel.br/revistas/uel/index.php/projetica/article/view/48223) ;
 
 <div align="center">
   <a href="https://github.com/gabereboucas">
