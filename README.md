@@ -12,7 +12,7 @@
 
 ## `01 / profile`
 
-I’m a **Control & Automation Engineer** working across **software, data, digital products and applied research**. I currently work as a **Project Development Analyst at Conecta Hub** and develop products that connect technical systems to clear, usable interfaces.
+I’m a **Control & Automation Engineer** working across **software, data, digital products and applied research**. I currently work as a **Project Development Analyst** and develop products that connect technical systems to clear, usable interfaces.
 
 Alongside product and engineering work, I’m a **ProfÁgua / UNEMAT graduate researcher in Water Resources**, investigating **multiscale remote sensing** with multispectral UAV imagery, satellite time series and machine-learning methods for water-stress analysis in the **Pantanal transition**.
 
