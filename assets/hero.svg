@@ -1,50 +1,59 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.028"/>
-    </pattern>
-    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
-      <stop stop-color="#FFFFFF" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/>
-      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="420" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07070A"/>
+      <stop offset="1" stop-color="#0D0B14"/>
     </linearGradient>
+    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(918 68) rotate(136) scale(560 390)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="126" y1="302" x2="709" y2="302" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="0.5" stop-color="#A78BFA"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#FFFFFF" stroke-opacity="0.035"/>
+    </pattern>
+    <filter id="soft" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="18"/>
+    </filter>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="298" rx="24" fill="#090909" stroke="#FFFFFF" stroke-opacity="0.11"/>
-  <rect x="1" y="1" width="1198" height="298" rx="24" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#bg)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1198" height="418" rx="28" fill="url(#glow)"/>
+
+  <circle cx="1012" cy="92" r="122" fill="#7C3AED" fill-opacity="0.10" filter="url(#soft)">
+    <animate attributeName="r" values="100;140;100" dur="8s" repeatCount="indefinite"/>
+    <animate attributeName="fill-opacity" values="0.08;0.18;0.08" dur="8s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1055" cy="300" r="98" fill="#22D3EE" fill-opacity="0.06" filter="url(#soft)">
+    <animate attributeName="cy" values="292;314;292" dur="10s" repeatCount="indefinite"/>
+  </circle>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="56" y="52" fill="#8B8B8B" font-size="13" font-weight="700" letter-spacing="3.2">GABRIEL REBOUÇAS / ENGINEER + BUILDER</text>
-    <text x="56" y="128" fill="#F5F5F5" font-size="57" font-weight="780" letter-spacing="-2.2">TECH THAT SHIPS.</text>
-    <text x="56" y="172" fill="#B8B8B8" font-size="19" font-weight="500">software · automation · 3D · cloud · interfaces</text>
+    <text x="78" y="72" fill="#A1A1AA" font-size="16" font-weight="600" letter-spacing="4">GABRIEL REBOUÇAS / 2026</text>
+    <text x="78" y="164" fill="#F4F4F5" font-size="62" font-weight="760" letter-spacing="-2.5">ENGINEERING × DATA</text>
+    <text x="78" y="228" fill="#F4F4F5" font-size="62" font-weight="760" letter-spacing="-2.5">× PRODUCT</text>
 
-    <g transform="translate(56 215)">
-      <rect x="0" y="0" width="122" height="32" rx="16" fill="#F5F5F5"/>
-      <text x="23" y="21" fill="#0A0A0A" font-size="12" font-weight="800" letter-spacing="1.1">AGÊNCIA 808</text>
-      <rect x="136" y="0" width="94" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.13"/>
-      <text x="159" y="21" fill="#CFCFCF" font-size="12" font-weight="700">PRODUCT</text>
-      <rect x="244" y="0" width="106" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.13"/>
-      <text x="266" y="21" fill="#CFCFCF" font-size="12" font-weight="700">SYSTEMS</text>
-    </g>
+    <rect x="78" y="278" width="650" height="2" rx="1" fill="#27272A"/>
+    <rect x="78" y="278" width="160" height="2" rx="1" fill="url(#accent)">
+      <animate attributeName="width" values="120;650;120" dur="7s" repeatCount="indefinite"/>
+    </rect>
 
-    <g transform="translate(785 45)">
-      <rect x="0" y="0" width="356" height="204" rx="18" fill="#0D0D0D" stroke="#FFFFFF" stroke-opacity="0.12"/>
-      <circle cx="23" cy="22" r="4" fill="#6B6B6B"/>
-      <circle cx="39" cy="22" r="4" fill="#6B6B6B"/>
-      <circle cx="55" cy="22" r="4" fill="#6B6B6B"/>
-      <line x1="0" y1="43" x2="356" y2="43" stroke="#FFFFFF" stroke-opacity="0.08"/>
-      <text x="22" y="75" fill="#8A8A8A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">$ build agency808</text>
-      <text x="22" y="105" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">web + systems + automation</text>
-      <text x="22" y="135" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">3d + prototypes + interfaces</text>
-      <text x="22" y="175" fill="#8A8A8A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">status:</text>
-      <text x="78" y="175" fill="#F5F5F5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">shipping</text>
-      <rect x="142" y="162" width="7" height="16" fill="#EDEDED">
-        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
-      </rect>
-    </g>
+    <text x="78" y="326" fill="#C4C4CC" font-size="20" font-weight="500">Control &amp; Automation Engineer · Project Development Analyst</text>
+    <text x="78" y="360" fill="#8B8B96" font-size="17">Cloud systems · Geospatial data · Remote sensing · UX · Prototyping</text>
   </g>
 
-  <rect x="50" y="276" width="470" height="1.5" rx="1" fill="url(#scan)">
-    <animate attributeName="x" values="50;650;50" dur="8s" repeatCount="indefinite"/>
-  </rect>
+  <g transform="translate(904 185)">
+    <rect x="0" y="0" width="214" height="128" rx="22" fill="#FFFFFF" fill-opacity="0.035" stroke="#FFFFFF" stroke-opacity="0.11"/>
+    <circle cx="28" cy="29" r="5" fill="#34D399">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="44" y="35" fill="#B8BAC2" font-size="13" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">CURRENT FOCUS</text>
+    <text x="25" y="76" fill="#F4F4F5" font-size="19" font-weight="700" font-family="Inter, ui-sans-serif, system-ui">Water + Remote</text>
+    <text x="25" y="101" fill="#F4F4F5" font-size="19" font-weight="700" font-family="Inter, ui-sans-serif, system-ui">Sensing + ML</text>
+  </g>
 </svg>
