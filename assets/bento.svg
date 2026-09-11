@@ -1,0 +1,50 @@
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cardA" x1="0" y1="0" x2="560" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#121018"/>
+      <stop offset="1" stop-color="#0A0A0D"/>
+    </linearGradient>
+    <linearGradient id="cardB" x1="590" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0B0B0F"/>
+      <stop offset="1" stop-color="#10131A"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#22D3EE"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="1" y="1" width="568" height="358" rx="26" fill="url(#cardA)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <rect x="591" y="1" width="608" height="171" rx="26" fill="url(#cardB)" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <rect x="591" y="188" width="294" height="171" rx="26" fill="#0C0C10" stroke="#FFFFFF" stroke-opacity="0.10"/>
+  <rect x="901" y="188" width="298" height="171" rx="26" fill="#0C0C10" stroke="#FFFFFF" stroke-opacity="0.10"/>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="38" y="48" fill="#8B8B96" font-size="13" font-weight="700" letter-spacing="2.4">RESEARCH / PROFÁGUA</text>
+    <text x="38" y="100" fill="#F4F4F5" font-size="30" font-weight="740">From UAV pixels to</text>
+    <text x="38" y="137" fill="#F4F4F5" font-size="30" font-weight="740">regional water signals.</text>
+    <text x="38" y="188" fill="#A7A7B0" font-size="16">Multiscale calibration · spectral indices · GEE</text>
+    <text x="38" y="214" fill="#A7A7B0" font-size="16">Sentinel-2 / Landsat · Random Forest · uncertainty</text>
+
+    <path d="M38 278 C118 240 176 320 255 278 S390 242 520 292" stroke="url(#line)" stroke-width="3" stroke-linecap="round" fill="none">
+      <animate attributeName="stroke-dasharray" values="0 600;600 0" dur="4.5s" repeatCount="indefinite"/>
+    </path>
+    <circle cx="520" cy="292" r="6" fill="#22D3EE">
+      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="626" y="45" fill="#8B8B96" font-size="13" font-weight="700" letter-spacing="2.4">PRODUCT ENGINEERING</text>
+    <text x="626" y="91" fill="#F4F4F5" font-size="26" font-weight="720">Ideas → systems → deployed products.</text>
+    <text x="626" y="125" fill="#A7A7B0" font-size="16">Python · Flask · Supabase · Cloud Run · UX · automation</text>
+    <rect x="1071" y="33" width="88" height="28" rx="14" fill="#7C3AED" fill-opacity="0.17" stroke="#8B5CF6" stroke-opacity="0.4"/>
+    <text x="1090" y="52" fill="#C4B5FD" font-size="12" font-weight="700">SHIPPING</text>
+
+    <text x="622" y="229" fill="#8B8B96" font-size="12" font-weight="700" letter-spacing="2">BASE</text>
+    <text x="622" y="274" fill="#F4F4F5" font-size="23" font-weight="720">Cuiabá, MT</text>
+    <text x="622" y="306" fill="#A7A7B0" font-size="15">Brazil · UTC−4</text>
+
+    <text x="932" y="229" fill="#8B8B96" font-size="12" font-weight="700" letter-spacing="2">MODE</text>
+    <text x="932" y="274" fill="#F4F4F5" font-size="23" font-weight="720">Build + research</text>
+    <text x="932" y="306" fill="#A7A7B0" font-size="15">physical ↔ digital</text>
+  </g>
+</svg>
