@@ -43,7 +43,7 @@ From CAD and rapid prototyping to printable parts, functional concepts and inter
   <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,gcp,supabase,figma,blender,arduino,git,github&perline=12" alt="Core technology stack" />
 </p>
 
-### Otto — UX, robotics & 3D
+### UX, robotics & 3D
 
 One of my most complete multidisciplinary projects combined **inclusive UX, interaction design, 3D modeling and physical prototyping** around the **Otto robotic platform**, exploring how a playful robot could support therapy sessions with autistic children.
 
