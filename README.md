@@ -1,28 +1,40 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Gabriel Rebouças — engineering products across software, automation, 3D and interfaces" />
+  <img src="./assets/hero.svg" width="100%" alt="Gabriel Rebouças — Product, Automation, UX and 3D" />
 </div>
 
 <p align="center">
-  <a href="https://gabrielreboucas.com"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://agencia808.com"><img src="https://img.shields.io/badge/AGÊNCIA_808-0D1117?style=for-the-badge&logo=vercel&logoColor=white" alt="Agência 808" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-rebou%C3%A7as-4489141b4/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://gabrielreboucas.com"><img src="https://img.shields.io/badge/PORTFOLIO-111111?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://agencia808.com"><img src="https://img.shields.io/badge/AGÊNCIA_808-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Agência 808" /></a>
+  <a href="https://www.linkedin.com/in/gabriel-rebou%C3%A7as-4489141b4/"><img src="https://img.shields.io/badge/LINKEDIN-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
-I’m a **Control & Automation Engineer** building at the intersection of **technology, product and physical systems**. I create digital products at **Agência 808**, develop automations and cloud-backed tools, and turn ideas into physical prototypes through **3D modeling and additive manufacturing**.
+I’m a **Control & Automation Engineer** focused on building useful technology — from **digital products and automation** to **UX-driven interfaces, cloud systems and 3D prototypes**. At **Agência 808**, I work across product, implementation and experimentation, connecting software with real business and physical-world problems.
 
 <table>
 <tr>
 <td width="33%" valign="top">
-<strong>01 / Digital products</strong><br/>
-<sub>Web experiences, dashboards, UX/UI, internal tools and product interfaces.</sub>
+
+### Product + UX
+Interfaces, websites, dashboards and internal tools designed to feel **clear, fast and intentional**.
+
+`Figma` `HTML/CSS` `JavaScript` `UX/UI`
+
 </td>
 <td width="33%" valign="top">
-<strong>02 / Systems + automation</strong><br/>
-<sub>Python, Flask, APIs, Supabase, Cloud Run and practical workflow automation.</sub>
+
+### Systems + automation
+Web applications, APIs and workflows that reduce manual work and connect operations.
+
+`Python` `Flask` `Supabase` `Cloud Run`
+
 </td>
 <td width="33%" valign="top">
-<strong>03 / 3D + creative tech</strong><br/>
-<sub>Fusion 360, Blender, rapid prototyping, 3D printing, GSAP and WebGL.</sub>
+
+### 3D + physical
+From CAD and rapid prototyping to printable parts, functional concepts and interactive objects.
+
+`Fusion 360` `Blender` `3D Printing` `Arduino`
+
 </td>
 </tr>
 </table>
@@ -31,36 +43,18 @@ I’m a **Control & Automation Engineer** building at the intersection of **tech
   <img src="https://skillicons.dev/icons?i=python,js,html,css,flask,gcp,supabase,figma,blender,arduino,git,github&perline=12" alt="Core technology stack" />
 </p>
 
-<table>
-<tr>
-<td width="64%" valign="top">
-<strong>What I like to build</strong><br/><br/>
-<sub>
-→ interfaces that feel simple, fast and intentional<br/>
-→ automation that removes repetitive work<br/>
-→ cloud-backed products that solve real operational problems<br/>
-→ 3D objects designed to become real, manufacturable products
-</sub>
-<br/><br/>
-<a href="https://gabrielreboucas.com"><strong>Explore selected work ↗</strong></a>
-</td>
-<td width="36%" valign="top">
-<strong>Applied research</strong><br/><br/>
-<sub>
-ProfÁgua / UNEMAT — remote sensing, multispectral UAV imagery and satellite data applied to water-resources monitoring.
-</sub>
-<br/><br/>
-<sub><strong>UAV × GEE × spectral data</strong></sub>
-</td>
-</tr>
-</table>
+### Otto — UX, robotics & 3D
+
+One of my most complete multidisciplinary projects combined **inclusive UX, interaction design, 3D modeling and physical prototyping** around the **Otto robotic platform**, exploring how a playful robot could support therapy sessions with autistic children.
+
+> **Latest publication**  
+> *Requirements Specification Approach for 3D Modeling of Robot Otto for therapy sessions with autistic children* — **Projetica**  
+> **[Read the article →](https://ojs.uel.br/revistas/uel/index.php/projetica/article/view/48223)**
 
 <details>
-<summary><strong>↳ More about what I’m exploring</strong></summary>
+<summary><strong>↳ Applied research, briefly</strong></summary>
 <br/>
-I’m interested in systems where <strong>software meets the physical world</strong>: automation, sensing, digital fabrication, interactive interfaces, geospatial data and tools that make complex processes easier to operate.
-<br/><br/>
-My research work is a complementary track focused on environmental monitoring through drone and satellite imagery. My main day-to-day focus remains <strong>product, technology, automation and building</strong>.
+I also develop applied research in <strong>ProfÁgua / UNEMAT</strong>, using UAV imagery, satellite data and geospatial analysis for water-resources monitoring.
 </details>
 
 ### Contribution activity
