@@ -14,7 +14,7 @@
 
 I’m a **Control & Automation Engineer** working across **software, data, digital products and applied research**. I currently work as a **Project Development Analyst** and develop products that connect technical systems to clear, usable interfaces.
 
-Alongside product and engineering work, I’m a **ProfÁgua / UNEMAT graduate researcher in Water Resources**, investigating **multiscale remote sensing** with multispectral UAV imagery, satellite time series and machine-learning methods for water-stress analysis in the **Pantanal transition**.
+Alongside product and engineering work, I’m a **Master’s researcher in Water Resources Management at ProfÁgua / UNEMAT**. investigating **multiscale remote sensing** with multispectral UAV imagery, satellite time series and machine-learning methods for water-stress analysis in the **Pantanal transition**.
 
 My work usually sits at the intersection of **Python + cloud systems + geospatial data + automation + UX** — from an idea or field problem to a working interface, model, dashboard or deployed service.
 
