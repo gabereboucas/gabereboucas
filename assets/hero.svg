@@ -1,52 +1,50 @@
-<svg width="1200" height="330" viewBox="0 0 1200 330" fill="none" xmlns="http://www.w3.org/2000/svg">
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="330">
-      <stop stop-color="#070709"/>
-      <stop offset="1" stop-color="#0B0B0F"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0" cy="0" r="1" gradientTransform="translate(1010 55) rotate(145) scale(430 310)">
-      <stop stop-color="#8B5CF6" stop-opacity=".22"/>
-      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="line" x1="78" y1="247" x2="675" y2="247">
-      <stop stop-color="#8B5CF6"/>
-      <stop offset=".55" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#67E8F9"/>
-    </linearGradient>
-    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
-      <path d="M34 0H0V34" stroke="#fff" stroke-opacity=".025"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" stroke="#FFFFFF" stroke-opacity="0.028"/>
     </pattern>
+    <linearGradient id="scan" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
   </defs>
 
-  <rect x="1" y="1" width="1198" height="328" rx="24" fill="url(#bg)" stroke="#fff" stroke-opacity=".09"/>
-  <rect x="1" y="1" width="1198" height="328" rx="24" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1198" height="328" rx="24" fill="url(#glow)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="#090909" stroke="#FFFFFF" stroke-opacity="0.11"/>
+  <rect x="1" y="1" width="1198" height="298" rx="24" fill="url(#grid)"/>
 
   <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
-    <text x="78" y="62" fill="#9CA3AF" font-size="14" font-weight="600" letter-spacing="3.2">GABRIEL REBOUÇAS / ENGINEER + BUILDER</text>
+    <text x="56" y="52" fill="#8B8B8B" font-size="13" font-weight="700" letter-spacing="3.2">GABRIEL REBOUÇAS / ENGINEER + BUILDER</text>
+    <text x="56" y="128" fill="#F5F5F5" font-size="57" font-weight="780" letter-spacing="-2.2">TECH THAT SHIPS.</text>
+    <text x="56" y="172" fill="#B8B8B8" font-size="19" font-weight="500">software · automation · 3D · cloud · interfaces</text>
 
-    <text x="78" y="142" fill="#F4F4F5" font-size="52" font-weight="760" letter-spacing="-2">
-      PRODUCT × AUTOMATION
-    </text>
-    <text x="78" y="198" fill="#F4F4F5" font-size="52" font-weight="760" letter-spacing="-2">
-      × UX × 3D
-    </text>
+    <g transform="translate(56 215)">
+      <rect x="0" y="0" width="122" height="32" rx="16" fill="#F5F5F5"/>
+      <text x="23" y="21" fill="#0A0A0A" font-size="12" font-weight="800" letter-spacing="1.1">AGÊNCIA 808</text>
+      <rect x="136" y="0" width="94" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <text x="159" y="21" fill="#CFCFCF" font-size="12" font-weight="700">PRODUCT</text>
+      <rect x="244" y="0" width="106" height="32" rx="16" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.13"/>
+      <text x="266" y="21" fill="#CFCFCF" font-size="12" font-weight="700">SYSTEMS</text>
+    </g>
 
-    <rect x="78" y="238" width="600" height="2" rx="1" fill="#242429"/>
-    <rect x="78" y="238" width="145" height="2" rx="1" fill="url(#line)">
-      <animate attributeName="width" values="145;600;145" dur="7.5s" repeatCount="indefinite"/>
-    </rect>
-
-    <text x="78" y="278" fill="#B9BBC4" font-size="17" font-weight="500">Digital products · Cloud systems · Creative technology · Prototyping</text>
+    <g transform="translate(785 45)">
+      <rect x="0" y="0" width="356" height="204" rx="18" fill="#0D0D0D" stroke="#FFFFFF" stroke-opacity="0.12"/>
+      <circle cx="23" cy="22" r="4" fill="#6B6B6B"/>
+      <circle cx="39" cy="22" r="4" fill="#6B6B6B"/>
+      <circle cx="55" cy="22" r="4" fill="#6B6B6B"/>
+      <line x1="0" y1="43" x2="356" y2="43" stroke="#FFFFFF" stroke-opacity="0.08"/>
+      <text x="22" y="75" fill="#8A8A8A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">$ build agency808</text>
+      <text x="22" y="105" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">web + systems + automation</text>
+      <text x="22" y="135" fill="#E8E8E8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14">3d + prototypes + interfaces</text>
+      <text x="22" y="175" fill="#8A8A8A" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">status:</text>
+      <text x="78" y="175" fill="#F5F5F5" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" font-weight="700">shipping</text>
+      <rect x="142" y="162" width="7" height="16" fill="#EDEDED">
+        <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
   </g>
 
-  <g transform="translate(900 100)">
-    <rect width="222" height="126" rx="20" fill="#fff" fill-opacity=".035" stroke="#fff" stroke-opacity=".1"/>
-    <circle cx="28" cy="29" r="5" fill="#34D399">
-      <animate attributeName="opacity" values=".35;1;.35" dur="2.2s" repeatCount="indefinite"/>
-    </circle>
-    <text x="44" y="34" fill="#AEB1BA" font-size="12" font-family="ui-monospace, SFMono-Regular, Menlo, monospace">CURRENTLY BUILDING</text>
-    <text x="26" y="76" fill="#F4F4F5" font-size="20" font-weight="700" font-family="Inter, ui-sans-serif, system-ui">Agência 808</text>
-    <text x="26" y="101" fill="#9CA3AF" font-size="14" font-family="Inter, ui-sans-serif, system-ui">products · systems · 3D</text>
-  </g>
+  <rect x="50" y="276" width="470" height="1.5" rx="1" fill="url(#scan)">
+    <animate attributeName="x" values="50;650;50" dur="8s" repeatCount="indefinite"/>
+  </rect>
 </svg>
